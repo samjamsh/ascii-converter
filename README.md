@@ -1,5 +1,5 @@
 # ascii-converter
-Convert ascii characters to binary digit 
+Convert ascii characters  
 
 usage:
 
