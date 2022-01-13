@@ -1,5 +1,5 @@
 # ascii-converter
-Convert ascii characters  
+Convert ascii characters to binary or morse code
 
 usage:
 
