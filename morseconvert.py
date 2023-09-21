@@ -41,7 +41,7 @@ if len(alist) <= 1:
                   
                 db=liste         
                 db=db
-                print(db[0])
+                print(db[0], end="")
               
         else:
     
@@ -69,4 +69,4 @@ else:
         else:
        
             pass
-
+print()
